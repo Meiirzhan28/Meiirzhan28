@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Meiirzhan28
-- 👀 Alem School
 - 🌱 I’m currently learning Golang, Python
 - 📫 How to reach me meirjan28@mail.ru
 
